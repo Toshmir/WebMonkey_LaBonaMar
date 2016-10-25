@@ -136,6 +136,7 @@ a:hover{
 	background-image: url(../img/home/slider.jpg);
 	background-repeat: no-repeat;
 }
+
 #arrow{
 	position: absolute;
 	opacity: 0.3;
